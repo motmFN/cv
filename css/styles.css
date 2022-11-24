@@ -1,21 +1,17 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body{
   background-color: #ECDBBA;
 }
 
-hr{
-  border-style: none;
-  border-bottom-style: dotted;
-
-  border-color: #2D4263;
-  border-width: 8px;
-  width: 10%;
+p{
+  text-align: center;
 }
 
 h1{
-  color: #C84B31;
-}
-
-h2{
   color: #C84B31;
 }
 
@@ -29,3 +25,20 @@ a{
 a:visited{
   color: #2D4263;
 }
+
+
+/*
+unused currently
+hr{
+  border-style: none;
+  border-bottom-style: dotted;
+
+  border-color: #2D4263;
+  border-width: 8px;
+  width: 10%;
+}
+
+h2{
+  color: #C84B31;
+}
+*/
